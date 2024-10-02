@@ -1,0 +1,22 @@
+* {
+  background-color: hsl(0, 0%, 10%);
+  color: hsl(0, 0%, 70%);
+  font-family: Arial;
+}
+
+h1,
+h2 {
+  font-family: sans-serif;
+}
+
+h1 {
+  color: hsl(140, 80%, 70%);
+}
+
+h2 {
+  color: hsl(240, 80%, 70%);
+}
+
+a {
+  color: hsl(230, 50%, 70%);
+}
